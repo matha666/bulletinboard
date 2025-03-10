@@ -1,11 +1,9 @@
-com\example\bulletinboard\mapper\TitleMapper.class
-com\example\bulletinboard\mapper\ContentMapper.class
-com\example\bulletinboard\config\MyBatisConfig.class
 com\example\bulletinboard\controller\PostController.class
+com\example\bulletinboard\model\Post.class
+com\example\bulletinboard\config\DataSource1Config.class
+com\example\bulletinboard\config\DataSource2Config.class
+com\example\bulletinboard\config\MyBatisConfig.class
 com\example\bulletinboard\model\Title.class
 com\example\bulletinboard\service\PostService.class
 com\example\bulletinboard\BulletinBoardApplication.class
-com\example\bulletinboard\model\Post.class
-com\example\bulletinboard\config\DataSource1Config.class
 com\example\bulletinboard\model\Content.class
-com\example\bulletinboard\config\DataSource2Config.class

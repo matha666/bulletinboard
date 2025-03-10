@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Data
 public class Content {
-    private int postId;
+    private int id;
+    private int post_Id;
     private String content;
 }

@@ -9,7 +9,7 @@ import java.util.List;
 
 @Mapper
 public interface ContentMapper {
-    @Insert("INSERT INTO contents (post_id, content) VALUES (#{postId}, #{content})")
+    @Insert("INSERT INTO contents (post_id, content) VALUES (#{post_Id}, #{content})")
     void insertContent(Content content);
 
     @Select("SELECT * FROM contents")
